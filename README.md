@@ -6,4 +6,6 @@
 
 </div>
 
+![Untitled](https://github.com/Marouane-Elgoumiri/CodeAlpha_task1/assets/96888594/8e490b27-ee60-4314-82a2-2f13050f5e8b)
+
 The goal of this project is to predict whether a passenger survived the Titanic sinking based on various features. This is a binary classification task, and the features include socio-economic status, age, gender, and more.
